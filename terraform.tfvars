@@ -1,0 +1,6 @@
+credentials_file = "yams-project-263023-fe99f7ce2f63.json"
+project = "yams-project-263023"
+region = "us-west"
+zone = "us-central1-c"
+gce_ssh_user = "devops"
+gce_ssh_pub_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDJDx4N9R26i2DQq+eyPqCPegpr17n7uWhW6Hui/cjFbwMgIXhziAGmyF2noXyQ0q7ejNKut2zn8fQ8JAeNr5iSxys2536DxiuJSGtGWmFLkYo7cxveJMzFqworc0fIhSvctovgjsic1eB4K5hbsnOVjjK/mVDa+QVD/ryL6aDd1dLP5NPaFcSPBthTnt/DQPZe0aGxDU/jAcqH5wfIY5dwDs7YGZTuj0gqckSabjvm+9K3gq+LWK7c4OqP/x1Gl5kDHQZyu6XCYa3zIxicT6z2WBppYmY1vl2vDWimEc6HuWsCH1KqC88YFqUgKeGleZkO5JTqYmCdUxA39dm17++X devops"
